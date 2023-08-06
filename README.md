@@ -1,6 +1,10 @@
 ## Netflix Data Analysis Dashboard on Tableau
 
 Netflix Data Analysis Dashboard
+![Netflix Dashboard](https://github.com/Bhavya1912/Netflix-Dashboard/blob/main/pic1.png)
+![Netflix Dashboard](https://github.com/Bhavya1912/Netflix-Dashboard/blob/main/pic2.png)
+
+
 
 ## Project Description:
 This repository contains a data analysis dashboard project created on Tableau to explore and visualize various aspects of Netflix's content and user engagement. The primary goal of this project is to provide valuable insights into Netflix's vast collection of movies and TV shows and understand user preferences and engagement patterns.
